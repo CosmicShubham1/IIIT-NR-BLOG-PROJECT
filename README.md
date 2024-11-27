@@ -1,1 +1,1 @@
-# IIIT-NR-BLOG-PROJECT
+# IIIT-NR-Blogs
